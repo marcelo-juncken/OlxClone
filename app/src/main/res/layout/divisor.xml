@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="2dp"
+    android:background="@color/roxo_padrao"
+    android:alpha="0.2"
+    android:layout_marginHorizontal="24dp">
+
+</androidx.constraintlayout.widget.ConstraintLayout>

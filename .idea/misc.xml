@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable-v24/ic_anuncio_off.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable-v24/ic_anuncio_on.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable-v24/ic_home_off.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable-v24/ic_home_on.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable-v24/ic_user_on.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/bg_bottom_sheet.xml" value="0.1495" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/bg_btn.xml" value="0.195" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/bg_search_view.xml" value="0.1615" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_back.xml" value="0.205" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_close.xml" value="0.215" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_comercio_e_escritorio.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_detalhes_favorito_off.xml" value="0.118" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_detalhes_favorito_on.xml" value="0.118" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_detalhes_favorito_on_red.xml" value="0.118" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_dropdown.xml" value="0.1495" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_eletronico_e_celulares.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_email.xml" value="0.205" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_esporte_e_lazer.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_imoveis.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_logo.xml" value="0.1245" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_moda_e_beleza.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_musica_e_hobbies.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_para_a_sua_casa.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_password.xml" value="0.205" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_person.xml" value="0.173" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_phone.xml" value="0.173" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_servicos.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_seta.xml" value="0.3335" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_todas_as_categorias.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_user_perfil.xml" value="0.3335" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/ic_vagas_de_emprego.xml" value="0.1625" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/menu_item_favoritos.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/menu_item_home.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/menu_item_meus_anuncios.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/drawable/menu_item_minha_conta.xml" value="0.193" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_categorias.xml" value="0.25857275254865614" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_criar_conta.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_detalhes_anuncio.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_endereco.xml" value="0.33" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_estados.xml" value="0.19794784095767423" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_filtros.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_form_anuncio.xml" value="0.22" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_main.xml" value="0.18084651560495937" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_main_form_anuncio.xml" value="0.26635711270578305" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_perfil.xml" value="0.20534904805077062" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_recuperar_senha.xml" value="0.33" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_regioes.xml" value="0.2178134233853947" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/activity_splash.xml" value="0.17349092444069228" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/anuncio_item.xml" value="0.18421052631578946" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/categoria_item.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/divisor.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/estado_item.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/fragment_favoritos.xml" value="0.2" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/fragment_meus_anuncios.xml" value="0.22" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/fragment_minha_conta.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/regiao_item.xml" value="0.2178134233853947" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/slider_layout_item.xml" value="0.17571611799914494" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/toolbar_filtros.xml" value="0.33" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/layout/toolbar_voltar.xml" value="0.25" />
+        <entry key="..\:/Users/Marcelo/AndroidStudioProjects/OLXClone/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18697916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
