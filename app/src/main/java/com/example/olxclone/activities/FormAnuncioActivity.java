@@ -103,7 +103,7 @@ public class FormAnuncioActivity extends AppCompatActivity {
         iniciaComponentes();
 
         Bundle bundle = getIntent().getExtras();
-        if (bundle != null){
+        if (bundle != null) {
             anuncio = (Anuncio) bundle.getSerializable("anuncioSelecionado");
 
             configDados();
@@ -150,10 +150,9 @@ public class FormAnuncioActivity extends AppCompatActivity {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 enderecoUsuario = snapshot.getValue(Endereco.class);
-                if (enderecoUsuario!=null) {
+                if (enderecoUsuario != null) {
                     edit_cep.setText(enderecoUsuario.getCep());
-                }
-                else{
+                } else {
                     progressBar.setVisibility(View.GONE);
                 }
             }
@@ -482,11 +481,11 @@ public class FormAnuncioActivity extends AppCompatActivity {
                                         Toast.makeText(this, "Selecione 3 imagens para o anúncio", Toast.LENGTH_SHORT).show();
                                     }
                                 } else {
-                                    if(imagemList.size() > 0){
+                                    if (imagemList.size() > 0) {
                                         for (int i = 0; i < imagemList.size(); i++) {
                                             salvarImagemFireBase(imagemList.get(i), i);
                                         }
-                                    }else{
+                                    } else {
                                         button.setText("Salvando anúncio...");
                                         anuncio.salvar(this, false);
                                     }
@@ -526,13 +525,15 @@ public class FormAnuncioActivity extends AppCompatActivity {
 
         UploadTask uploadTask = storageReference.putFile(Uri.parse(imagem.getCaminhoImagem()));
         uploadTask.addOnSuccessListener(taskSnapshot -> storageReference.getDownloadUrl().addOnCompleteListener(task -> {
-            if (novoAnuncio) {
-                anuncio.getUrlImagens().add(index, task.getResult().toString());
-            } else {
-                anuncio.getUrlImagens().set(imagem.getIndex(), task.getResult().toString());
-            }
-            if (imagemList.size() == index + 1) {
-                anuncio.salvar(this, novoAnuncio);
+            if (task.isSuccessful()) {
+                if (novoAnuncio) {
+                    anuncio.getUrlImagens().add(index, task.getResult().toString());
+                } else {
+                    anuncio.getUrlImagens().set(imagem.getIndex(), task.getResult().toString());
+                }
+                if (imagemList.size() == index + 1) {
+                    anuncio.salvar(this, novoAnuncio);
+                }
             }
         })).addOnFailureListener(e -> Toast.makeText(this, "Erro no upload, tente novamente mais tarde.", Toast.LENGTH_SHORT).show());
 
